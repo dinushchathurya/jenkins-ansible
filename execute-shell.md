@@ -1,0 +1,1 @@
+ansible-playbook /home/ubuntu/ansible-playbook/ansible.yml
